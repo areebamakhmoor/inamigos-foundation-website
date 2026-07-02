@@ -41,19 +41,6 @@ The website focuses on presenting the organization's mission, projects, and impa
 
 ---
 
-## 📂 Project Structure
-
-```
-inamigos-foundation-website/
-│
-├── index.html
-├── style.css
-├── README.md
-│
-└── images/
-    └── about-photo.jpg
-```
-
 ---
 
 ## 🚀 Getting Started
@@ -74,7 +61,8 @@ No additional setup or installation is required.
 
 ## 📸 Preview
 
-> Screenshots will be added soon.
+! [Homepage](<img width="1915" height="892" alt="NGO webpage" src="https://github.com/user-attachments/assets/1c50b6e8-32fc-4b57-8ea9-cd4888d31f98" />)
+
 
 ---
 
